@@ -9,4 +9,6 @@
 
  You can also import past race via the left menu.
 
+ <img width="202" height="45" alt="image" src="https://github.com/user-attachments/assets/ffd5c41f-15eb-42ed-b883-9fac314067ba" />
+
  DONT CHANGE YOU CAR. Use the same car, the car's number is tracked all along the season. 
