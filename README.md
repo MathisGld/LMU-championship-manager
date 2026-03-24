@@ -1,19 +1,32 @@
 ﻿# LMU-championship-manager
 
- Download the .exe file and launch
+### How to use
 
- In game, before the end of your race, click the "auto monitor" button to add automatically the race to the app. (you'll have to accept the race or not).
- 
- <img width="152" height="42" alt="image" src="https://github.com/user-attachments/assets/3d92525e-0bb8-4e82-8771-8cb0ab40a2da" />
+1. Launch the app.
+2. At the top of the window, click `Browse` and select your LMU `Results` folder.
+3. In the left sidebar, click `New season`.
+4. Choose your season settings, then click `Start season`.
+5. Import race results in one of these two ways:
+	- Click `Auto monitor` to let the app detect new LMU XML result files automatically.
+	- Click `Import race` to select an XML result file manually.
+6. Review the detected results, then click `Validate and import` to add the race to the championship.
 
+### Important rules
 
- You can also import past race via the left menu.
+- In `Career mode`, keep the same driver name or car number for the whole season.
+- Do not switch to another car/driver identity mid-season if you want progression tracking to stay correct.
+- If you use automatic monitoring, make sure the selected folder is the real LMU `Results` folder.
+- If a race looks wrong, cancel or reject it instead of importing it.
 
- <img width="202" height="45" alt="image" src="https://github.com/user-attachments/assets/ffd5c41f-15eb-42ed-b883-9fac314067ba" />
+### Buttons to know
 
- DONT CHANGE YOU CAR. Use the same car, the car's number is tracked all along the season.
-
-
+- `Browse`: select the LMU `Results` folder.
+- `New season`: create a new championship.
+- `Start season`: confirm and start the season.
+- `Auto monitor`: watch the folder and detect new results automatically.
+- `Import race`: import one XML file manually.
+- `Validate and import`: confirm the results and update the standings.
+- `Stop monitoring`: stop automatic monitoring.
 
  Thanks for downloading and if you can support me here:
  https://ko-fi.com/mathisglaude
